@@ -1,0 +1,37 @@
+.header{
+	height: 120px;
+	width: 100%;
+	background-color: grey;
+	padding: 10px;
+	clear: both;
+	position: fixed
+}
+img{
+	float:left;
+}
+nav{
+	float:right;
+}
+a{
+	color: red;
+}
+.selected{
+	font-weight: bold;
+}
+.content{
+	height: 430px;
+	width: 100%;
+	background-color: white;
+	color: blue;
+	padding: 10px;
+	clear: both;
+	margin-top: 120px;
+}
+.footer{
+	height:20px;
+	width: 100%;
+	background-color: red;
+	text-align: right;
+	padding: 10px;
+	clear: both;
+}
